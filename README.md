@@ -21,7 +21,7 @@ The average GDP Per Capita was outrageously high for high income class compared 
 
 ## Key Insights for Presentation
 
-For the presentation, I will mainly focus on **GDP, population and income class**. I would show how the growth of population corresponds to that of GDP and then the effect of inflation on GDP while population increased. I will start by introducing the distribution of
-GDP then compare GDP to population over the years that the data was collected. I will then introduce the inflation variable which has the strongest negative correlation with GDP and show how it can contribute to the fall of the GDP even when population increases. GDP fell in 2015 and there were a lot of deflation in 2015 and 2016. 
+For the presentation, I mainly focused on **GDP, population and income class**. I showed how the growth of population corresponded with that of GDP and then the effect of inflation on GDP while population increased.
+I started by introducing the distribution of GDP then compared GDP to population over the years that the data was collected. I then introduced the inflation variable which had the strongest negative correlation with GDP and showed how it can contribute to the fall of the GDP even when population increased. GDP fell in 2015 and there were a lot of deflation in 2015 and 2016. 
 
-Thereafter, I will introduce the categorical variables and show their distribution with GDP. I will then use the **GDP per capita** feature to illustrate the effect of Population on GDP by regions and income class. 
+Thereafter, I introduced the categorical variables and show their distribution with GDP. I finally engineered the **GDP per capita** feature  and used it to illustrate the effect of Population on GDP by regions and income class. 

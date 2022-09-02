@@ -8,7 +8,6 @@ The dataset was gotten from [kaggle](https://www.kaggle.com/datasets/truecue/wor
 
 The table initially contained a number of nulls values. For the important columns: GDP and Population, I dropped the null rows. For this reason, my analysis started from the year 2001 with 3,072 observations from 172 unique countries. This data cleaning process was done in MS Excel. The null values in the other numeric columns such as `exports`, `imports` were filled with the corresponding mean values.
 
-
 ## Summary of Findings
 
 GDP had a fairly normal distribution after scaling its axis logarithmically. The features with null values(exports, imports, total natural resources, gross savings) had an abnormally tall bar which represented the nulls that were filled with mean values.
